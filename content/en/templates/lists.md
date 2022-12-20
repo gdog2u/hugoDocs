@@ -569,7 +569,7 @@ Here is the ordering for the example that follows:
 ## Filtering and Limiting Lists {#filtering-and-limiting-lists}
 
 Sometimes you only want to list a subset of the available content. A
-common is to only display posts from [**main sections**][mainsections]
+common desire is to only display posts from [**main sections**][mainsections]
 on the blog's homepage.
 
 See the documentation on [`where` function][wherefunction] and
